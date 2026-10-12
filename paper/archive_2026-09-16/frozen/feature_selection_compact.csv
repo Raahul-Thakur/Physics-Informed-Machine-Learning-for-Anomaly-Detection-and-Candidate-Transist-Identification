@@ -1,0 +1,17 @@
+feature,missing_fraction,selected,redundant_with,catalogue_proxy_disabled
+best_period,0.0,True,,False
+best_duration,0.0,True,,False
+best_depth,0.0,True,,False
+depth_snr,0.0,True,,False
+number_observed_transits,0.0,False,best_period,False
+odd_even_difference,0.09016393442622951,True,,False
+asymmetry_proxy,0.0,True,,False
+point_to_point_scatter,0.0,True,,False
+event_depth_relative_mad,0.17577413479052822,True,,False
+event_duration_relative_mad,0.1894353369763206,True,,False
+single_event_power_fraction_proxy,0.006375227686703097,True,,False
+local_noise_beta,0.0,True,,False
+edge_to_centre_depth_ratio,0.006375227686703097,True,,False
+ingress_egress_difference,0.0,True,,False
+secondary_scan_depth,0.04007285974499089,True,,False
+secondary_scan_depth_ratio,0.04007285974499089,True,,False

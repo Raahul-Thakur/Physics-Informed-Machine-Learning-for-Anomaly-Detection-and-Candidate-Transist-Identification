@@ -1,0 +1,21 @@
+stage,parameter,value
+preprocessing,quality_bitmask,175
+preprocessing,detrend_method,"""savgol"""
+preprocessing,window_days,1.5
+preprocessing,preserve_transits,true
+preprocessing,gap_days,0.25
+preprocessing,min_points,200
+preprocessing,max_normalized_flux,1000000
+bls,min_period_days,0.5
+bls,max_period_days,12
+bls,durations_hours,"[1, 2, 3, 4]"
+bls,frequency_factor,5
+bls,objective,"""snr"""
+bls,oversample,10
+bls,min_transits,2
+models,use_stellar_catalog_features,false
+models,max_missing_fraction,0.6
+models,scaler,"""robust"""
+models,isolation_forest,"{""enabled"": true, ""n_estimators"": 300, ""max_samples"": ""auto"", ""contamination"": ""auto"", ""max_features"": 1.0}"
+models,lof,"{""enabled"": true, ""n_neighbors"": 20, ""contamination"": ""auto"", ""metric"": ""minkowski""}"
+models,autoencoder,"{""enabled"": false, ""epochs"": 150, ""patience"": 15, ""learning_rate"": 0.001}"

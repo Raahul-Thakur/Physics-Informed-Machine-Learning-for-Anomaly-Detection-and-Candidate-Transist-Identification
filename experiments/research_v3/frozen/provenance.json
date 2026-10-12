@@ -1,0 +1,13 @@
+{
+  "script_sha256": "bc6a9f529609654f1a9a3bb7d3e2ae20ab8ad6eef66f8156e44aa12969017faa",
+  "source_digest": "5b56e4ffea97f92cb10212a8fe9072c227ebcb1fdc02653972f6645324507b86",
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "astropy": "7.2.2",
+    "scikit-learn": "1.9.0",
+    "joblib": "1.6.0"
+  },
+  "status": "Frozen after development inspection; new evaluation not yet performed"
+}

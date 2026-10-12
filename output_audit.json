@@ -1,0 +1,207 @@
+{
+  "checks": {
+    "unique_target_sector_rows": true,
+    "feature_and_score_keys": true,
+    "sample_labels_match": true,
+    "no_infinite_features": true,
+    "finite_ml_matrix": true,
+    "excluded_identifiers_and_stellar_proxies": true,
+    "matrix_row_alignment": true,
+    "IF_score_orientation": true,
+    "LOF_score_orientation": true,
+    "LOF_reference_matrix": true,
+    "ensemble_formula": true,
+    "hybrid_formula": true,
+    "target_max_aggregation": true,
+    "all_reported_ranking_metrics_recomputed": true,
+    "refit_original_order_reproduces_main": true,
+    "missing_targets_explained_by_download_failures": true
+  },
+  "metric_differences": [],
+  "all_feature_ablation_recovery_discrepancies": [
+    {
+      "method": "isolation_forest_score",
+      "requested_k": 50,
+      "recovered_main": 6,
+      "recovered_ablation": 7
+    },
+    {
+      "method": "isolation_forest_score",
+      "requested_k": 99,
+      "recovered_main": 21,
+      "recovered_ablation": 22
+    },
+    {
+      "method": "isolation_forest_score",
+      "requested_k": 197,
+      "recovered_main": 57,
+      "recovered_ablation": 61
+    },
+    {
+      "method": "ensemble_score",
+      "requested_k": 20,
+      "recovered_main": 4,
+      "recovered_ablation": 5
+    },
+    {
+      "method": "ensemble_score",
+      "requested_k": 50,
+      "recovered_main": 9,
+      "recovered_ablation": 8
+    },
+    {
+      "method": "ensemble_score",
+      "requested_k": 197,
+      "recovered_main": 48,
+      "recovered_ablation": 49
+    },
+    {
+      "method": "hybrid_score",
+      "requested_k": 10,
+      "recovered_main": 0,
+      "recovered_ablation": 1
+    },
+    {
+      "method": "hybrid_score",
+      "requested_k": 99,
+      "recovered_main": 25,
+      "recovered_ablation": 26
+    },
+    {
+      "method": "hybrid_score",
+      "requested_k": 197,
+      "recovered_main": 68,
+      "recovered_ablation": 70
+    }
+  ],
+  "configured_counts": {
+    "sample_size_planets": 300,
+    "sample_size_false_positive": 300,
+    "sample_size_background": 500
+  },
+  "selected_counts": {
+    "background": 500,
+    "planet": 300,
+    "false_positive": 196
+  },
+  "analysed_counts": {
+    "background": 492,
+    "planet": 297,
+    "false_positive": 193
+  },
+  "feature_rows": 1353,
+  "ml_columns": [
+    "mean_flux",
+    "median_flux",
+    "std_flux",
+    "variance",
+    "mad",
+    "rms",
+    "iqr",
+    "min_flux",
+    "max_flux",
+    "peak_to_peak",
+    "skewness",
+    "kurtosis",
+    "point_to_point_scatter",
+    "difference_rms",
+    "median_absolute_successive_difference",
+    "percentile_amplitude",
+    "baseline_days",
+    "n_observations",
+    "n_segments",
+    "duty_cycle",
+    "largest_gap_days",
+    "best_period",
+    "best_duration",
+    "best_depth",
+    "depth_error",
+    "depth_snr",
+    "bls_max_power",
+    "bls_median_power",
+    "bls_peak_significance",
+    "number_expected_transits",
+    "number_observed_transits",
+    "in_transit_points",
+    "median_in_transit",
+    "median_out_transit",
+    "measured_depth",
+    "asymmetry_proxy",
+    "odd_even_difference",
+    "odd_even_significance",
+    "secondary_depth_proxy",
+    "fraction_in_transit",
+    "radius_ratio_proxy"
+  ],
+  "missing_target_ids": [
+    1133072,
+    16288184,
+    24404829,
+    37116146,
+    92304420,
+    124573851,
+    204388709,
+    235160581,
+    270480629,
+    303586471,
+    325680697,
+    350140574,
+    365639282,
+    422170267
+  ],
+  "processed_curve_count": 1353,
+  "processed_array_checks_passed": true,
+  "all_processed_errors_finite_positive": true,
+  "period_upper_limit_exceedances": [
+    {
+      "tic_id": 42054565,
+      "sector": 3,
+      "best_period": 10.156076732143037,
+      "upper_limit": 10.138794081155538,
+      "excess_days": 0.01728265098749837
+    },
+    {
+      "tic_id": 451599528,
+      "sector": 12,
+      "best_period": 12.01485944331816,
+      "upper_limit": 12,
+      "excess_days": 0.014859443318160359
+    },
+    {
+      "tic_id": 148273382,
+      "sector": 7,
+      "best_period": 12.022234744871618,
+      "upper_limit": 12,
+      "excess_days": 0.022234744871617806
+    },
+    {
+      "tic_id": 183537481,
+      "sector": 2,
+      "best_period": 12.011596198019053,
+      "upper_limit": 12,
+      "excess_days": 0.01159619801905265
+    },
+    {
+      "tic_id": 159707889,
+      "sector": 11,
+      "best_period": 12.02253095896891,
+      "upper_limit": 12,
+      "excess_days": 0.02253095896890933
+    },
+    {
+      "tic_id": 192559318,
+      "sector": 9,
+      "best_period": 12.017529912732096,
+      "upper_limit": 12,
+      "excess_days": 0.01752991273209581
+    },
+    {
+      "tic_id": 255400005,
+      "sector": 12,
+      "best_period": 11.756721722479163,
+      "upper_limit": 11.742904307091294,
+      "excess_days": 0.013817415387869403
+    }
+  ],
+  "ablation_ordering_cause_confirmed": true
+}

@@ -1,0 +1,12 @@
+{
+  "calibration.csv": "123f2ba5b218ab489a0b86fe89da1d695191f838e33e7a4e6c6feab5d5337c3e",
+  "development_features.csv": "3f3c95a9f6f5bd53014db9c5cdd511a0a38dca495e8014ce843bbe6b94d1f2cb",
+  "excluded_tics.csv": "7677a887c182262461f75584b1de8032416fbb262558b75e6e3e11622e1e3e9f",
+  "feature_selection.csv": "caa608d2817689eae765d1c3fccdae923133aba82fccdf3712533cda6e0e309f",
+  "limited_labels.csv": "dd8b292ae828331dfc8971279cbb2784b220e1b3bcda4e247aa7c8964b4be7db",
+  "model.joblib": "485493351ca2f43f326e54299e141e4f3c5d6c8ea08802b844f8cf401fabbdf2",
+  "protocol.json": "718717aaade410a6e7b728f56e6f2c4dc01fd9960981778047fdeb7f647bbfb1",
+  "provenance.json": "d321fa66034129e47790cf94f5292876ec6bc1e1408bf65aaa8e19fbadf60f37",
+  "research_v3.py": "bc6a9f529609654f1a9a3bb7d3e2ae20ab8ad6eef66f8156e44aa12969017faa",
+  "training.csv": "a3303251a9e8a81b72ebd63d43e95502d766ba661766d39ec594e0f5f600857d"
+}

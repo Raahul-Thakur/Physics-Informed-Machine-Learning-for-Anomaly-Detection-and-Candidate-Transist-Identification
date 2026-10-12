@@ -1,0 +1,11 @@
+Descriptive unsupervised results from the fitted sample; anomaly scores are not calibrated statistical significance. Generalisation and reduced manual inspection workload have not been independently demonstrated.
+Requested 110 targets; analysed 110 light curves from 110 unique targets.
+0 requested targets produced no usable feature row.
+11 of 30 hosts' representative catalogue periods lie outside the configured 0.5–12 day search interval; 1 have no usable representative period. Individual-sector baseline caps can restrict coverage further. This is not an all-planets completeness estimate.
+0 of the top 5 hybrid-ranked inspection candidates are unlabelled backgrounds. These rankings do not validate planets.
+The analysed sample contains 30 planet targets.
+The analysed sample contains 30 false_positive targets.
+The analysed sample contains 50 background targets.
+depth_snr recovered 2/30 catalogue-positive targets (6.7%) in the top 11 targets.
+ensemble_score recovered 1/30 catalogue-positive targets (3.3%) in the top 11 targets.
+hybrid_score recovered 2/30 catalogue-positive targets (6.7%) in the top 11 targets.

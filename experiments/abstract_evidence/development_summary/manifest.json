@@ -1,0 +1,11 @@
+{
+  "controlled_interventions.pdf": "7c94e48851d71045a82d6db9db8a7c9fd0ffe5ac874d120611bbd06dabfffcf1",
+  "controlled_interventions.png": "2342b340cb7f730448f4c460cfd3b9bb0f6ab69fc5545183166707ffedf27c75",
+  "injection_overall.csv": "633400cc11c28ae1f1eb77fb70ee68afce62e66126a5ae6791ad2a4607b2555f",
+  "injection_paired_uncertainty.json": "54ff1a0d0899a81888cfb3c8f0bf0c99c82a624e51924c362f163267bae2000f",
+  "injection_validation.pdf": "98a22d493df7ce46ee0792028e9ab7757e46ee8835dcf01c8fb715676042ed4c",
+  "injection_validation.png": "0c9874d1044028380b0e257ea017b53052e0f4a64f342130165333b0e0f425fc",
+  "intervention_target_phase_means.csv": "bae3e9e214f9a224bf34be45e2f94a5254fed486ae4441ac96ad2486af0206fd",
+  "provenance.json": "6c077eb602741e00544fd4a5c416a675304dfc1ea9f369574c89e2f637e91049",
+  "README.md": "11750c063c4ba4278a0265416e7fd41dbb2cbaba36e412c62daf5156b83db0b5"
+}

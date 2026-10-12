@@ -1,0 +1,3 @@
+k,n,positive_total,bls_recovered,hybrid_recovered,difference,difference_ci_low,difference_ci_high,recall_difference,recall_ci_low,recall_ci_high,bootstrap_repeats,seed,scope,exposure
+100,924,300,33,28,-5,-13.0,3.0,-0.016666666666666666,-0.04207204905467552,0.010000836120401325,5000,20260916,Paired target resampling with reranking; conditional on frozen models. No training/calibration-refit or catalogue-label uncertainty.,all_sectors
+100,924,300,34,30,-4,-13.0,4.0,-0.013333333333333334,-0.042483660130718956,0.012779552715654952,5000,20260916,Paired target resampling with reranking; conditional on frozen models. No training/calibration-refit or catalogue-label uncertainty.,one_sector

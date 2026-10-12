@@ -1,0 +1,12 @@
+feature,missing_fraction,selected,redundant_with,catalogue_proxy_disabled
+median_in_transit,0.0,True,,False
+median_out_transit,0.0,True,,False
+measured_depth,0.0,True,,False
+asymmetry_proxy,0.0,True,,False
+odd_even_difference,0.09016393442622951,True,,False
+odd_even_significance,0.30601092896174864,True,,False
+secondary_depth_proxy,0.0,True,,False
+fraction_in_transit,0.0,True,,False
+radius_ratio_proxy,0.0,True,,False
+radius_earth_proxy,0.4890710382513661,False,,True
+duration_ratio_proxy,1.0,False,,True

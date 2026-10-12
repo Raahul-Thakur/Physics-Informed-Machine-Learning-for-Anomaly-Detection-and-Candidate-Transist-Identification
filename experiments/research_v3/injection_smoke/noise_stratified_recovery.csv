@@ -1,0 +1,7 @@
+method,noise_stratum,attempted,completed,recovered,recovery_including_failures,median_depth_bias
+rolling_median,low,1,1,1,1.0,-0.010714324306656
+rolling_median,medium,1,1,1,1.0,-0.0083132182581908
+rolling_median,high,1,1,0,0.0,-0.0136515539665368
+savgol,low,1,1,1,1.0,-0.0549322057275762
+savgol,medium,1,1,1,1.0,-0.0468394640707138
+savgol,high,1,1,0,0.0,-0.0739561402141838

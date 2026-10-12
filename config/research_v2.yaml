@@ -1,0 +1,19 @@
+# Freeze before viewing any new evaluation targets or results.
+families: [generic, bls, physics, all, compact, extended]
+primary_family: compact
+calibration_fraction: 0.2
+correlation_threshold: 0.95
+budget: 100
+bls_fraction: 0.8
+bootstrap_seed: 731
+bootstrap_repeats: 1000
+selection_history: Compact morphology hypothesis motivated by previously inspected labelled development results.
+additional_development_samples:
+  - data/catalog/sample.csv
+  - experiments/cached_probe/data/catalog/sample.csv
+evaluation_data:
+  sectors: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+  sample_size_planets: 300
+  sample_size_false_positive: 300
+  sample_size_background: 500
+evaluation_seed: 2027

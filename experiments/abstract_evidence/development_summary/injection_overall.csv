@@ -1,0 +1,3 @@
+method,attempted,processed,retrieved,retrieval_fraction,median_depth_bias
+rolling_median,7200,7200,3703,0.5143055555555556,-0.018286838640134702
+savgol,7200,7200,3924,0.545,-0.052659738985441254

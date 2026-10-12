@@ -1,0 +1,12 @@
+{
+  "seed": 20261003,
+  "alpha": 0.05,
+  "method": "raw_isolation_forest",
+  "correction": "Holm; one family over every prespecified test target",
+  "test_count": 20,
+  "reference_count": 480,
+  "script_sha256": "0e7360a4e39dee58364950899d1a4b1731dcee5b95066706daee2be6b25a4160",
+  "null": "Target drawn from the same selected unlabelled SPOC stellar population as reference targets",
+  "assumptions": "Fixed model; target exchangeability; identical selection/preprocessing/coverage rules. Missingness must not depend on randomly assigned role. Unlabelled references are not verified inliers.",
+  "interpretation": "Statistically extreme relative to this reference population, not planet significance or proof of deviation from every dominant stellar variability class."
+}

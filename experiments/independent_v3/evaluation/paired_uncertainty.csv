@@ -1,0 +1,11 @@
+exposure,method,k,difference,low,high,scope
+all_sectors,anomaly,100,-18,-30.0,-8.0,Paired targets with reranking; conditional on frozen fitted models
+all_sectors,unsupervised_hybrid,100,-11,-23.0,0.0,Paired targets with reranking; conditional on frozen fitted models
+all_sectors,semi_affinity,100,5,-6.0,16.0,Paired targets with reranking; conditional on frozen fitted models
+all_sectors,semi_anomaly,100,-14,-26.0,-1.9750000000001364,Paired targets with reranking; conditional on frozen fitted models
+all_sectors,semi_hybrid,100,-8,-19.0,2.0,Paired targets with reranking; conditional on frozen fitted models
+one_sector,anomaly,100,-19,-31.0,-8.0,Paired targets with reranking; conditional on frozen fitted models
+one_sector,unsupervised_hybrid,100,-11,-23.0,-2.0,Paired targets with reranking; conditional on frozen fitted models
+one_sector,semi_affinity,100,7,-5.024999999999999,16.0,Paired targets with reranking; conditional on frozen fitted models
+one_sector,semi_anomaly,100,-13,-26.0,-3.9750000000001364,Paired targets with reranking; conditional on frozen fitted models
+one_sector,semi_hybrid,100,-9,-20.0,1.0,Paired targets with reranking; conditional on frozen fitted models

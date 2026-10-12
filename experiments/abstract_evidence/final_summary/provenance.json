@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "experiments\\research_v3\\injections\\results\\injection_trials.csv": "46d9f7f96382a692920acca8e3d247d74c3803ee3e95496aa75ec66e4b9bdf67",
+    "experiments\\abstract_evidence\\interventions\\interventions.csv": "7a95eea0b57c6d6f3a7732c7911abedd7c781716f8148fccb8f5668e049de85f",
+    "experiments\\independent_v3\\evaluation\\manifest.json": "bc0cdf2beba9fb95db51287a1179718dcc4a0cbebf8374a020ff7303b2e892dd"
+  },
+  "script_sha256": "b7c5bbe493a1a01fc2103db43b422b93786ca28ec533d62bcac709ed8af723d5"
+}

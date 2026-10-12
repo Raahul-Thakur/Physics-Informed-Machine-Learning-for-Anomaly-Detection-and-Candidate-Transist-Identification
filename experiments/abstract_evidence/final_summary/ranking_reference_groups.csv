@@ -1,0 +1,13 @@
+exposure,method,k,catalogue_positive_total,catalogue_positive_at_100,confirmed_known_total,confirmed_known_at_100,candidate_only_total,candidate_only_at_100,matched_positive_signals_at_100,ephemeris_testable_positive_total
+all_sectors,bls,100,300,32,124,26,176,6,20,76
+all_sectors,anomaly,100,300,14,124,4,176,10,2,76
+all_sectors,unsupervised_hybrid,100,300,21,124,10,176,11,6,76
+all_sectors,semi_affinity,100,300,37,124,21,176,16,17,76
+all_sectors,semi_anomaly,100,300,18,124,9,176,9,5,76
+all_sectors,semi_hybrid,100,300,24,124,13,176,11,9,76
+one_sector,bls,100,300,31,124,26,176,5,20,76
+one_sector,anomaly,100,300,12,124,4,176,8,2,76
+one_sector,unsupervised_hybrid,100,300,20,124,10,176,10,6,76
+one_sector,semi_affinity,100,300,38,124,22,176,16,17,76
+one_sector,semi_anomaly,100,300,18,124,9,176,9,4,76
+one_sector,semi_hybrid,100,300,22,124,12,176,10,8,76

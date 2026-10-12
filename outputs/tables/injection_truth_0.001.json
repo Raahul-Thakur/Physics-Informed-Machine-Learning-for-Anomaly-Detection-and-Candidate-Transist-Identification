@@ -1,0 +1,9 @@
+{
+  "period": 3.2,
+  "depth": 0.001,
+  "duration": 0.12,
+  "noise": 0.001,
+  "epoch": 0.8,
+  "seed": 42,
+  "data_kind": "synthetic_validation_only"
+}

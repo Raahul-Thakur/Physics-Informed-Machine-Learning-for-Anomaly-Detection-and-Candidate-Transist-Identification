@@ -1,0 +1,7 @@
+population,label,requested,selected,downloaded,analysed,usable_target_sector_rows
+development,planet,300,300,300,300,432
+development,false_positive,300,196,196,196,289
+development,background,500,500,500,500,646
+evaluation,planet,300,300,300,300,501
+evaluation,false_positive,300,124,124,124,200
+evaluation,background,500,500,500,500,714

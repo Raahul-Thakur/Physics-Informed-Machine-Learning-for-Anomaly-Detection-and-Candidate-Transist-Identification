@@ -1,0 +1,1 @@
+select pl_name,tic_id,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_tranmid,pl_tranmiderr1,pl_tranmiderr2,pl_tranmidlim,pl_tsystemref,ttv_flag,tran_flag,pl_refname,pl_pubdate,rowupdate,default_flag from ps where tran_flag=1 and tic_id is not null

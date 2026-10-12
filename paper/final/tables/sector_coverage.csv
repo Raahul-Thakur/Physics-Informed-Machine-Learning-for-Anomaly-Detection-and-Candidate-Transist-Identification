@@ -1,0 +1,10 @@
+label,n_sectors,targets,exposure
+background,1,286,all_sectors
+background,2,214,all_sectors
+false_positive,1,48,all_sectors
+false_positive,2,76,all_sectors
+planet,1,99,all_sectors
+planet,2,201,all_sectors
+background,1,500,one_sector
+false_positive,1,124,one_sector
+planet,1,300,one_sector

@@ -1,0 +1,13 @@
+requested_budget,effective_budget,bls_recovered,complement_recovered,additional_hosts,lost_hosts,net_recovery_difference,conditional_bootstrap_low,conditional_bootstrap_high,uncertainty_note,family,exposure
+100,100,33,25,0,8,-8,-14.0,-3.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,generic,all_sectors
+100,100,34,27,0,7,-7,-12.0,-3.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,generic,one_sector
+100,100,33,26,0,7,-7,-13.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,bls,all_sectors
+100,100,34,28,0,6,-6,-11.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,bls,one_sector
+100,100,33,27,1,7,-6,-12.0,-1.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,physics,all_sectors
+100,100,34,29,1,6,-5,-10.0,0.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,physics,one_sector
+100,100,33,26,0,7,-7,-13.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,all,all_sectors
+100,100,34,28,0,6,-6,-11.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,all,one_sector
+100,100,33,27,1,7,-6,-12.0,-1.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,compact,all_sectors
+100,100,34,28,0,6,-6,-11.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,compact,one_sector
+100,100,33,26,0,7,-7,-13.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,extended,all_sectors
+100,100,34,28,0,6,-6,-11.0,-2.0,Paired target bootstrap conditional on fixed inspection lists; excludes model-fitting uncertainty,extended,one_sector

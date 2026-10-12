@@ -1,0 +1,12 @@
+feature,missing_fraction,selected,redundant_with,catalogue_proxy_disabled
+best_period,0.0,True,,False
+best_duration,0.0,True,,False
+best_depth,0.0,True,,False
+depth_error,0.0,True,,False
+depth_snr,0.0,True,,False
+bls_max_power,0.0,True,,False
+bls_median_power,0.0,True,,False
+bls_peak_significance,0.0,True,,False
+number_expected_transits,0.0,True,,False
+number_observed_transits,0.0,True,,False
+in_transit_points,0.0,True,,False

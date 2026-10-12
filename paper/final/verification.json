@@ -1,0 +1,35 @@
+{
+  "csv_tables_byte_identical": {
+    "bootstrap_draws_all_sectors.csv": true,
+    "bootstrap_draws_one_sector.csv": true,
+    "development_calibration_metrics.csv": true,
+    "development_complementarity.csv": true,
+    "development_split_ids.csv": true,
+    "diagnostic_review_selection.csv": true,
+    "feature_definitions.csv": true,
+    "feature_selection.csv": true,
+    "independent_complementarity.csv": true,
+    "independent_metrics.csv": true,
+    "injection_summary.csv": true,
+    "injection_trials.csv": true,
+    "original_development_baseline.csv": true,
+    "paired_primary_uncertainty.csv": true,
+    "preprocessing_and_search_settings.csv": true,
+    "sample_selection_attrition.csv": true,
+    "search_eligibility.csv": true,
+    "sector_coverage.csv": true
+  },
+  "manuscript_and_abstract_reproduced": true,
+  "frozen_models_source_and_dependencies_verified": true,
+  "original_independent_outputs_unchanged": true,
+  "pytest_passed": 34,
+  "summary_figures_visually_checked": 8,
+  "diagnostic_figures_visually_checked": 10,
+  "uncertainty_scope": "Paired target bootstrap with reranking; trained models and calibration fixed",
+  "primary_host_difference": -5,
+  "primary_percentile_95_interval": [
+    -13,
+    3
+  ],
+  "new_model_or_hyperparameter_tuning": false
+}

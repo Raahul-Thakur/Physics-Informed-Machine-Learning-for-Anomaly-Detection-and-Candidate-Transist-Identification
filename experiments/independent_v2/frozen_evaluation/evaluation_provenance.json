@@ -1,0 +1,8 @@
+{
+  "protocol_sha256": "13858d257036639714a4b8a836dced3f892935508be7b13a5c5ad104bfc6a518",
+  "feature_sha256": "ef9b5fb0875b5d9986f69656d7e07e21c1a3fbd0dd7fa078446db1213f44c83a",
+  "requested_targets": 924,
+  "analysed_targets": 924,
+  "missing_targets": [],
+  "note": "Target-disjoint from development; acquisition and sampling biases remain possible"
+}

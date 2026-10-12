@@ -1,0 +1,13 @@
+depths:
+- 0.003
+durations_hours:
+- 1.5
+methods:
+- savgol
+- rolling_median
+n_targets: 3
+period_tolerance: 0.01
+periods_days:
+- 3.2
+phases_per_case: 1
+seed: 20261002

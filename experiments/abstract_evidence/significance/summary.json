@@ -1,0 +1,12 @@
+{
+  "reference_scored": 480,
+  "test_family": 20,
+  "test_scored": 20,
+  "smallest_possible_p": 0.002079002079002079,
+  "first_holm_threshold": 0.0025,
+  "any_rejection_attainable": true,
+  "rejections": 0,
+  "null": "Target drawn from the same selected unlabelled SPOC stellar population as reference targets",
+  "assumptions": "Fixed model; target exchangeability; identical selection/preprocessing/coverage rules. Missingness must not depend on randomly assigned role. Unlabelled references are not verified inliers.",
+  "caveat": "Type-I control is marginal over reference/test sampling under exchangeability, not a guarantee conditional on this particular reference set. No planetary interpretation."
+}

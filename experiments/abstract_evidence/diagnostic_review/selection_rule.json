@@ -1,0 +1,15 @@
+{
+  "k": 100,
+  "per_group": 2,
+  "selection": "Highest semi_hybrid target rank within group; BLS rank for BLS-only; TIC/sector tie breaks.",
+  "interpretation": "Descriptive morphology review, not population prevalence, causal attribution or planet validation.",
+  "script_sha256": "671a09453feb26e07b450298df6c981710d2d8fe07abf9520c5c710883d23f06",
+  "scores_sha256": "509079e6d4f0e4f20e5b2f3bf1566f368f7b246e1a95146c5a6612468181149f",
+  "group_available": {
+    "both": 8,
+    "bls_only": 24,
+    "hybrid_only": 16,
+    "false_positive": 232,
+    "background": 500
+  }
+}

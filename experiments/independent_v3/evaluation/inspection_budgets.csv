@@ -1,0 +1,13 @@
+exposure,method,required_hosts,target_recall,budget,bls_budget,budget_difference_vs_bls
+all_sectors,bls,30,0.1,87,87,0
+all_sectors,anomaly,30,0.1,166,87,79
+all_sectors,unsupervised_hybrid,30,0.1,119,87,32
+all_sectors,semi_affinity,30,0.1,86,87,-1
+all_sectors,semi_anomaly,30,0.1,137,87,50
+all_sectors,semi_hybrid,30,0.1,112,87,25
+one_sector,bls,30,0.1,88,88,0
+one_sector,anomaly,30,0.1,177,88,89
+one_sector,unsupervised_hybrid,30,0.1,122,88,34
+one_sector,semi_affinity,30,0.1,87,88,-1
+one_sector,semi_anomaly,30,0.1,138,88,50
+one_sector,semi_hybrid,30,0.1,116,88,28

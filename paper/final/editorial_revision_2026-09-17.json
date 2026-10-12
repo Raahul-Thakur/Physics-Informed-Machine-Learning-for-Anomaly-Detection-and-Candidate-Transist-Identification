@@ -1,0 +1,34 @@
+{
+  "revision_date": "2026-09-17",
+  "scope": "Literature, reference verification, proofreading and availability statement; no scientific changes",
+  "reference_entries": 14,
+  "all_references_cited_in_body": true,
+  "manuscript_and_abstract_mirrors_identical": true,
+  "protected_scientific_files_verified_unchanged": 341,
+  "primary_comparison_verified_against_saved_table": true,
+  "injection_results_verified": {
+    "rolling_median": {
+      "trials": 108,
+      "recovered": 55,
+      "median_depth_bias_percent": -1.6
+    },
+    "savgol": {
+      "trials": 108,
+      "recovered": 60,
+      "median_depth_bias_percent": -7.3
+    }
+  },
+  "previous_report_manifests": "artifact_checksums.json and verification.json apply to the original generated report; originals retained in paper/editorial_history/before_2026-09-17",
+  "public_study_release_assigned": false,
+  "tests_rerun": false,
+  "validation_note": "Editorial-only changes: checked document consistency, numerical claims and protected-file hashes; did not refit models or rerun scientific tests.",
+  "sha256": {
+    "paper/final/manuscript.md": "a2e96299f4efba3b1a77e5d9175a2120584cca94e96e992ab0681de3efd29798",
+    "paper/final/abstract.md": "4d6d8f5d47dae304d7374f1aa9452756714d7a24a8e3b1808b2cffac2380350c",
+    "paper/final/REPRODUCE.md": "9a1ac4cc02111c243968fe6609612f5f2f95d54b337c7a4215e616b1119713e4",
+    "paper/final/references_verification.md": "479886d95f5f919b1e335a12cea87bd0fc89d058492127340e8136698b3b727a",
+    "docs/manuscript.md": "a2e96299f4efba3b1a77e5d9175a2120584cca94e96e992ab0681de3efd29798",
+    "docs/abstract.md": "4d6d8f5d47dae304d7374f1aa9452756714d7a24a8e3b1808b2cffac2380350c",
+    "docs/paper_workflow.md": "5b606720a9148b1211ef862c8d065f0d2a44fe7b0fbd62600e5c29802458be69"
+  }
+}

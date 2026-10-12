@@ -1,0 +1,19 @@
+seed,label_fraction,training_fraction,status,error
+20261002,0.1,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261002,0.1,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261002,0.2,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261002,0.2,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261002,0.4,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261002,0.4,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.1,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.1,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.2,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.2,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.4,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261003,0.4,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.1,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.1,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.2,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.2,1.0,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.4,0.7,failed,Nonfinite model output; unsupported graph prediction or input
+20261004,0.4,1.0,failed,Nonfinite model output; unsupported graph prediction or input

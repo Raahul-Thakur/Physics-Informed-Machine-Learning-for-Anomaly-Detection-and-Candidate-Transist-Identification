@@ -1,0 +1,21 @@
+{
+  "reporting_date": "2026-10-11",
+  "computations_completed": "2026-10-06",
+  "targets": 1032,
+  "curves": 1364,
+  "target_overlap": 0,
+  "period_limit_violations": 0,
+  "protected_files_unchanged": 371,
+  "submitted_abstract_preserved": true,
+  "tests_last_run_passed": 56,
+  "full_injection_trials": 14400,
+  "controlled_intervention_cases": 54,
+  "primary_semi_hybrid_recovered": 24,
+  "bls_recovered": 32,
+  "positive_denominator": 300,
+  "corrected_significance_rejections": 0,
+  "significance_family": 20,
+  "results_sha256": "bc0cdf2beba9fb95db51287a1179718dcc4a0cbebf8374a020ff7303b2e892dd",
+  "summary_sha256": "dbef7d60a0ab7ab22aded615d2ca968934a6180c6f13edc036aaf79753f95c39",
+  "report_sha256": "59255909893376235095f5b536852a68c73ae635edd645cd0304b7d015167829"
+}

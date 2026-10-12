@@ -1,0 +1,14 @@
+{
+  "controlled_interventions.pdf": "9c0c9b4c2ab8b2ec1f5f7b4b92927024fa11d68059c3aafa413b1fcfdbd4773f",
+  "controlled_interventions.png": "2342b340cb7f730448f4c460cfd3b9bb0f6ab69fc5545183166707ffedf27c75",
+  "injection_grid_eligibility.csv": "06011d3229a6d99ec7c8cb148d028ace6c6167438f52539e044fc656dbe191bb",
+  "injection_overall.csv": "6400a88e0dc0f98f0ff8d0802fbac09245222d45a5c41f418f3ac65945a0952e",
+  "injection_paired_uncertainty.json": "54ff1a0d0899a81888cfb3c8f0bf0c99c82a624e51924c362f163267bae2000f",
+  "injection_validation.pdf": "3868b1deec98560b6b16c8e91f15335c2d1eb2d01560766ca87ac447501bdbd0",
+  "injection_validation.png": "0c9874d1044028380b0e257ea017b53052e0f4a64f342130165333b0e0f425fc",
+  "intervention_target_phase_means.csv": "bae3e9e214f9a224bf34be45e2f94a5254fed486ae4441ac96ad2486af0206fd",
+  "labelled_reference_discrimination.csv": "c17ee01466562b64895b78cfb19e987943246f2a7ffd2e9aad32f2db8e97c482",
+  "provenance.json": "c25d34f0321da45cde5895af5e3e27350462133e58fc7f4c77db151468362856",
+  "ranking_reference_groups.csv": "8fc4c1db38acea0bdb3bd1b4d46d930eb2f58d53b3f16521490fd0329791c1ee",
+  "README.md": "11750c063c4ba4278a0265416e7fd41dbb2cbaba36e412c62daf5156b83db0b5"
+}

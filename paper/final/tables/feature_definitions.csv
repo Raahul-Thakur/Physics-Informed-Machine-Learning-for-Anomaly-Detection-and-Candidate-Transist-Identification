@@ -1,0 +1,52 @@
+feature,definition,units
+asymmetry_proxy,First-half minus second-half transit median,relative flux
+baseline_days,Last minus first retained observation time,days
+best_depth,Best-fit BLS relative depth,relative flux
+best_duration,Best-fit BLS box duration,days
+best_period,Period of strongest allowed BLS trial,days
+bls_max_power,Maximum BLS objective; equals depth SNR under SNR objective,objective units
+bls_median_power,Median BLS objective over retained trials,objective units
+bls_peak_significance,(Maximum minus median power) / power MAD; not calibrated significance,dimensionless
+depth_error,BLS depth uncertainty under its noise model,relative flux
+depth_snr,BLS depth / depth error,dimensionless
+difference_rms,RMS of within-segment successive differences,relative flux
+duration_ratio_proxy,Observed duration / circular central-transit duration proxy; default ML exclusion,dimensionless
+duty_cycle,"Cadence count times median cadence / (baseline + cadence), capped at one",fraction
+edge_to_centre_depth_ratio,Outer transit-region depth / central-region depth,dimensionless
+event_depth_relative_mad,"Local per-event depth MAD / absolute median depth, >=3 events",dimensionless
+event_duration_relative_mad,"Sampled half-depth width MAD / median width, >=3 events",dimensionless
+fraction_in_transit,In-transit fraction of retained observations,fraction
+in_transit_points,Cadences inside the selected BLS transit window,count
+ingress_egress_difference,Ingress-side minus egress-side outer-region median flux,relative flux
+iqr,75th minus 25th flux percentile,relative flux
+kurtosis,Fisher excess kurtosis,dimensionless
+largest_gap_days,Largest gap between retained times,days
+local_noise_beta,Observed local bin-mean scatter / white-noise expectation,dimensionless
+mad,1.4826 times median absolute deviation,relative flux
+max_flux,Maximum detrended flux,relative flux
+mean_flux,Mean detrended relative flux,relative flux
+measured_depth,Out-of-transit minus in-transit median,relative flux
+median_absolute_successive_difference,Median absolute within-segment successive difference,relative flux
+median_flux,Median detrended relative flux,relative flux
+median_in_transit,Median flux inside the BLS window,relative flux
+median_out_transit,Median flux farther than one duration from transit centre,relative flux
+min_flux,Minimum detrended flux,relative flux
+n_observations,Retained unique cadences,count
+n_segments,Gap-separated segments,count
+number_expected_transits,"Predicted epoch crossings within baseline, regardless of gaps",count
+number_observed_transits,Distinct transit epochs with at least one sampled in-transit point,count
+odd_even_difference,Odd minus even in-transit median flux,relative flux
+odd_even_significance,Absolute odd/even difference / event-scatter uncertainty; diagnostic,dimensionless
+peak_to_peak,Maximum minus minimum flux,relative flux
+percentile_amplitude,95th minus 5th flux percentile,relative flux
+point_to_point_scatter,MAD of within-segment successive differences / sqrt(2),relative flux
+radius_earth_proxy,Radius-ratio proxy times catalogue stellar radius; default ML exclusion,Earth radii
+radius_ratio_proxy,"sqrt(BLS depth), only for depths between zero and one",dimensionless
+rms,Root mean square of flux minus one,relative flux
+secondary_depth_proxy,Out-of-transit median minus phase-0.5 window median,relative flux
+secondary_scan_depth,Maximum median dip over 80 phase positions outside primary region,relative flux
+secondary_scan_depth_ratio,Secondary-scan depth / BLS primary depth,dimensionless
+single_event_power_fraction_proxy,Largest positive event depth-squared count/noise-squared contribution / total,fraction
+skewness,Standardized third moment,dimensionless
+std_flux,Population standard deviation of detrended flux,relative flux
+variance,Population variance of detrended flux,relative flux squared

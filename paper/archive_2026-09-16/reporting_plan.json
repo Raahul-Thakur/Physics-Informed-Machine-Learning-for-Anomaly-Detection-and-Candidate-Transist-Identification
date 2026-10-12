@@ -1,0 +1,17 @@
+{
+  "primary_family": "compact",
+  "budget": 100,
+  "bootstrap_seed": 20260916,
+  "bootstrap_repeats": 5000,
+  "bootstrap": "Paired nonparametric target bootstrap, reranking both fixed-model scores in each resample",
+  "review_per_group": 2,
+  "review_groups": [
+    "both",
+    "bls_only",
+    "hybrid_only",
+    "false_positive",
+    "background"
+  ],
+  "review_selection": "Top two by BLS rank for BLS-only; otherwise hybrid rank, with TIC ties. Positives are selected by membership in primary all-sector top-100 lists. False positives and backgrounds are the two highest hybrid-ranked members of their groups.",
+  "status": "Reporting plan fixed after inspection of aggregate independent results, before object review. These additions are post-evaluation analyses, not newly preregistered hypotheses."
+}

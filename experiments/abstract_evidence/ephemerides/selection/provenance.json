@@ -1,0 +1,9 @@
+{
+  "snapshot_sha256": "6490d43177efa6d59ad6f523629dde8091627b6722f12540cbfb1b21eb54fafc",
+  "sample_sha256": "2812f84411374ac29f702d88677ae35e4c67a50e2b358fa296b11797892aa279",
+  "script_sha256": "db3eaf9caa33c6ec0805dfc65052f6044608762efd82526c9b1b0c9fd48e378e",
+  "rule": "Explicit BJD-TDB; finite positive uncertainties; no limits or flagged TTV; period and epoch from same literature row. Prefer eligible archive default, then newest publication.",
+  "caveat": "Catalogue metadata reliability screen, not individual paper reanalysis. Frozen matcher assumes zero period-epoch covariance and rejects propagated uncertainty larger than half the measured duration. Unflagged TTV and stale solutions remain possible.",
+  "selected_planets": 91,
+  "selected_targets": 79
+}

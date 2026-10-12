@@ -1,0 +1,53 @@
+random_seed: 42
+workspace: .
+data:
+  sample_size_planets: 30
+  sample_size_false_positive: 30
+  sample_size_background: 50
+  max_sectors_per_target: 1
+  sectors: [1, 2, 3, 4, 5]
+  cadence_seconds: 120
+  catalog_csv: null
+  background_csv: null
+  timeout_seconds: 90
+preprocessing:
+  quality_bitmask: 175
+  detrend_method: savgol
+  window_days: 1.5
+  preserve_transits: true
+  gap_days: 0.25
+  min_points: 200
+  max_normalized_flux: 1000000
+bls:
+  min_period_days: 0.5
+  max_period_days: 12
+  durations_hours: [1, 2, 3, 4]
+  frequency_factor: 5
+  objective: snr
+  oversample: 10
+  min_transits: 2
+models:
+  use_stellar_catalog_features: false
+  max_missing_fraction: 0.6
+  scaler: robust
+  isolation_forest:
+    enabled: true
+    n_estimators: 300
+    max_samples: auto
+    contamination: auto
+    max_features: 1.0
+  lof:
+    enabled: true
+    n_neighbors: 20
+    contamination: auto
+    metric: minkowski
+  autoencoder:
+    enabled: false
+    epochs: 150
+    patience: 15
+    learning_rate: 0.001
+evaluation:
+  top_k: [5, 10, 20]
+  top_fractions: [0.05, 0.1, 0.2]
+  candidate_reports: 5
+  ablation: true

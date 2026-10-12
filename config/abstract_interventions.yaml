@@ -1,0 +1,8 @@
+seed: 20261003
+base_period: 3.2
+base_depth: 0.003
+base_duration_hours: 1.5
+periods_days: [1.2, 3.2, 8.0]
+depths: [0.001, 0.003, 0.01]
+durations_hours: [1.5, 3.0]
+phases: 3

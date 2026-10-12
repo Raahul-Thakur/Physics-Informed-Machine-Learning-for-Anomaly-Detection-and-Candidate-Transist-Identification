@@ -1,0 +1,21 @@
+{
+  "light_curves_checked": 1367,
+  "unique_targets": 996,
+  "all_trial_periods_within_bounds": true,
+  "all_feature_scores_exactly_reproduce_primary": true,
+  "maximum_absolute_score_differences": {
+    "bls_max_power": 0.0,
+    "depth_snr": 0.0,
+    "isolation_forest_score": 0.0,
+    "lof_score": 0.0,
+    "ensemble_score": 0.0,
+    "hybrid_score": 0.0
+  },
+  "all_feature_metrics_exactly_reproduce_primary": true,
+  "hosts": 300,
+  "representative_periods_outside_configured_grid": 72,
+  "top_candidate_labels": {
+    "background": 5
+  },
+  "generalisation_and_workload_reduction_independently_evaluated": false
+}

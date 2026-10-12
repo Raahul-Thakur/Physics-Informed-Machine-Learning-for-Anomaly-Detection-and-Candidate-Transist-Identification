@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "seed": 20261003,
+    "base_period": 3.2,
+    "base_depth": 0.003,
+    "base_duration_hours": 1.5,
+    "periods_days": [
+      1.2,
+      3.2,
+      8.0
+    ],
+    "depths": [
+      0.001,
+      0.003,
+      0.01
+    ],
+    "durations_hours": [
+      1.5,
+      3.0
+    ],
+    "phases": 3
+  },
+  "selection_sha256": "d7390bb5ccecaf60b93b4bc85004692f83691c2b621d07ce17f9bd1c2598c68d",
+  "evidence_script_sha256": "0e7360a4e39dee58364950899d1a4b1731dcee5b95066706daee2be6b25a4160",
+  "frozen_model_sha256": "485493351ca2f43f326e54299e141e4f3c5d6c8ea08802b844f8cf401fabbdf2",
+  "interpretation": "Paired effects of inserted synthetic signals on frozen software; not causes of the original stellar signal or planet validation."
+}

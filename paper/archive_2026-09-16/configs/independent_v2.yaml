@@ -1,0 +1,78 @@
+bls:
+  durations_hours:
+  - 1
+  - 2
+  - 3
+  - 4
+  frequency_factor: 5
+  max_period_days: 12
+  min_period_days: 0.5
+  min_transits: 2
+  objective: snr
+  oversample: 10
+data:
+  background_csv: null
+  cadence_seconds: 120
+  catalog_csv: null
+  exclude_tics_csv: C:\Users\rahul\Desktop\YATI\tess-anomaly-research\experiments\research_v2\frozen\excluded_tics.csv
+  max_sectors_per_target: 2
+  sample_size_background: 500
+  sample_size_false_positive: 300
+  sample_size_planets: 300
+  sectors:
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  timeout_seconds: 90
+evaluation:
+  ablation: true
+  candidate_reports: 5
+  top_fractions:
+  - 0.05
+  - 0.1
+  - 0.2
+  top_k:
+  - 5
+  - 10
+  - 20
+  - 100
+models:
+  autoencoder:
+    enabled: false
+    epochs: 150
+    learning_rate: 0.001
+    patience: 15
+  isolation_forest:
+    contamination: auto
+    enabled: true
+    max_features: 1.0
+    max_samples: auto
+    n_estimators: 300
+  lof:
+    contamination: auto
+    enabled: true
+    metric: minkowski
+    n_neighbors: 20
+  max_missing_fraction: 0.6
+  scaler: robust
+  use_stellar_catalog_features: false
+preprocessing:
+  detrend_method: savgol
+  gap_days: 0.25
+  max_normalized_flux: 1000000
+  min_points: 200
+  preserve_transits: true
+  quality_bitmask: 175
+  window_days: 1.5
+random_seed: 2027
+workspace: C:\Users\rahul\Desktop\YATI\tess-anomaly-research\experiments\independent_v2

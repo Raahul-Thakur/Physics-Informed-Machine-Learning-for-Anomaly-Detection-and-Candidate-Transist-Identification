@@ -1,0 +1,9 @@
+Descriptive pipeline results, not discovery claims:
+Requested 9 targets; analysed 9 light curves from 9 unique targets.
+0 requested targets produced no usable feature row.
+The analysed sample contains 3 planet targets.
+The analysed sample contains 3 false_positive targets.
+The analysed sample contains 3 background targets.
+depth_snr recovered 0/3 catalogue-positive targets (0.0%) in the top 1 targets.
+ensemble_score recovered 0/3 catalogue-positive targets (0.0%) in the top 1 targets.
+hybrid_score recovered 0/3 catalogue-positive targets (0.0%) in the top 1 targets.

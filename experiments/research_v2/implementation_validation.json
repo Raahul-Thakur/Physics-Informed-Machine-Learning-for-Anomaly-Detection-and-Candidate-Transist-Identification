@@ -1,0 +1,13 @@
+{
+  "tests_passed": 31,
+  "baseline_results_preserved": true,
+  "training_targets": 796,
+  "calibration_targets": 200,
+  "calibration_target_sectors": 269,
+  "excluded_inspected_targets": 1064,
+  "training_calibration_target_overlap": false,
+  "independent_evaluation_performed": false,
+  "injection_trials": 216,
+  "injection_failures": 0,
+  "prepared_evaluation_config": "config/independent_v2.yaml"
+}

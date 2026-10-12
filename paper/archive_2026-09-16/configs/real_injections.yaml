@@ -1,0 +1,8 @@
+seed: 2026
+n_targets: 6
+periods_days: [1.2, 3.2, 8.0]
+depths: [0.001, 0.003, 0.01]
+durations_hours: [1.5, 3.0]
+phases_per_case: 1
+methods: [savgol, rolling_median]
+period_tolerance: 0.01

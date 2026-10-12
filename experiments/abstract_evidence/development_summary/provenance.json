@@ -1,0 +1,7 @@
+{
+  "inputs": {
+    "experiments\\research_v3\\injections\\results\\injection_trials.csv": "46d9f7f96382a692920acca8e3d247d74c3803ee3e95496aa75ec66e4b9bdf67",
+    "experiments\\abstract_evidence\\interventions\\interventions.csv": "7a95eea0b57c6d6f3a7732c7911abedd7c781716f8148fccb8f5668e049de85f"
+  },
+  "script_sha256": "7cb3ac603911caa7f76b2913e6cd9be73a3c30511af369d10c65294c5af8e2b4"
+}

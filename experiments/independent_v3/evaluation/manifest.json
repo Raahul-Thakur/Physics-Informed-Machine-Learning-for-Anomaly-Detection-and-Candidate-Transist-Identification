@@ -1,0 +1,16 @@
+{
+  "candidates.csv": "509079e6d4f0e4f20e5b2f3bf1566f368f7b246e1a95146c5a6612468181149f",
+  "complementarity.csv": "5b59767aa18495c4e1dda8d63d4e7a11e245dbf6ada65986230e272de7394c75",
+  "ephemerides_used.csv": "9e6197f97408c6de9c4f2fd4ca0ac06b8e3e703cb8f5caff8d13b5eadaacb7ac",
+  "input_provenance.json": "715c3e5a27c3dcb09275200479fa84b46cbbd9908f116d1a963a646c1d0032cb",
+  "inspection_budgets.csv": "f0e2e0777136b4acb3965ba5581439304e972c7ac17db2c74a72a7639d606afa",
+  "manual_review_template.csv": "44c49c50a9c23b7162dee3827e5e403e77adedbe7b21320cb3bcf9d179d4e63f",
+  "paired_uncertainty.csv": "611f98fcf6f17a9016d1a4ebadda398b5e7d2a2bc0b3fa8c1269ecf656d5cac8",
+  "protocol.json": "718717aaade410a6e7b728f56e6f2c4dc01fd9960981778047fdeb7f647bbfb1",
+  "recovery_all_sectors.png": "2a11b303ac22cb4b65486f7452822d1d87c618d2abf83588c2950fbc68a34100",
+  "recovery_curves.csv": "5fcdb38ba71effa82a29f919b5dc7167ed3dcb24c9a12a2d658c6d6c52f67bf8",
+  "recovery_one_sector.png": "bc4e3329dd60ef1c64095d5975ab97f11f6068c421fbcbc8a85ff78f4220dfab",
+  "report.md": "de672976aa8c191289d521a5e98d6fdf673b118f3af3f592322ee60280669171",
+  "sample_attrition.csv": "beedd861e85dc4bf9db62833dd20102004b0711899648c88eb336049b994efab",
+  "score_explanations.csv": "c6a82295932df5933b0b039fd68605570f7898018cb3fd29e9fffe1cbb29e2bc"
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-02",
+  "python": "3.11.9",
+  "environment": "F:/Projects/YATI/.venv",
+  "pip_check": "passed",
+  "pytest_passed": 48,
+  "new_extension_tests": 14,
+  "ruff": "passed",
+  "protected_v2_files_unchanged": 371,
+  "v2_frozen_model_source_versions_verified": true,
+  "v3_training_targets": 996,
+  "v3_calibration_targets": 924,
+  "excluded_inspected_targets": 1988,
+  "training_labels": {
+    "-1": 923,
+    "0": 39,
+    "1": 34
+  },
+  "development_sensitivity_configurations": 18,
+  "development_sensitivity_status": "all completed after bounded-graph numerical correction; failed original run preserved",
+  "real_injection_smoke_trials": 6,
+  "full_injection_trials_planned": 14400,
+  "full_injection_experiment_completed": false,
+  "independent_v3_evaluation_completed": false,
+  "human_timing_completed": false,
+  "submitted_abstract_preserved_verbatim": true,
+  "public_release_published": false
+}

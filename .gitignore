@@ -1,0 +1,54 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.ipynb_checkpoints/
+**/data/raw/
+**/data/cache/
+**/data/processed/
+**/outputs/models/
+*.log
+**/audit_snapshots/
+**/frozen_models.joblib
+
+# Local environments, credentials and editor state
+venv/
+env/
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.aws/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Disposable tooling and build products
+/tmp/
+/build/
+/dist/
+.coverage
+htmlcov/
+*.pyo
+
+# Local release copies and historical verification renderings
+/releases/
+/paper/reproduction_check/
+
+# Poster compilation and duplicate delivery bundles
+/poster/**/*.aux
+/poster/**/*.out
+/poster/**/*.toc
+/poster/**/*.synctex.gz
+/poster/**/*.fls
+/poster/**/*.fdb_latexmk
+/poster/**/font_audit.xml
+/poster/**/qr_check.png
+/poster/**/poster_text.txt
+/poster/**/extracted_print_text.txt
+/poster/*.zip
+/output/

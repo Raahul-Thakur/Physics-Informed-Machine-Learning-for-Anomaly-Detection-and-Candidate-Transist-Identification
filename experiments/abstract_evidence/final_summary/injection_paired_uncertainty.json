@@ -1,0 +1,8 @@
+{
+  "savgol_minus_rolling_median": 0.030694444444444448,
+  "low": 0.015829861111111104,
+  "high": 0.04708333333333334,
+  "independent_units": 30,
+  "repeats": 5000,
+  "scope": "Paired whole-target bootstrap; conditional on this injection grid and selected stars"
+}

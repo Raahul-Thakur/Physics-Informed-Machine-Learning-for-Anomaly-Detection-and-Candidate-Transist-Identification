@@ -1,0 +1,3 @@
+tic_id,sector,stage,error
+951700753,37,download,"Error in reading Data product F:\Projects\YATI\tess-anomaly-research\experiments\independent_v3\data\raw\mast\mastDownload\TESS\tess2021091135823-s0037-0000000951700753-0208-s\tess2021091135823-s0037-0000000951700753-0208-s_lc.fits of type TessLightCurve .
+This file may be corrupt due to an interrupted download. Please remove it from your disk and try again."

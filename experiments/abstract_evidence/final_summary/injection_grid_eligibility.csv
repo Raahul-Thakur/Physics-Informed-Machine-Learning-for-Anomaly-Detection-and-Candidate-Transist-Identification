@@ -1,0 +1,5 @@
+method,grid_eligible,attempted,retrieved,retrieval_fraction
+rolling_median,False,384,0,0.0
+rolling_median,True,6816,3703,0.5432805164319249
+savgol,False,384,0,0.0
+savgol,True,6816,3924,0.5757042253521126
